@@ -111,7 +111,7 @@
   line-height: 30px;
 }
 
-.recipes__video {
+.recipes__videos {
   display: flex;
   justify-content: center;
   gap: 100px;
@@ -121,7 +121,13 @@
 .recipes__iframe {
   width: 560px;
   height: 315px;
-  border: none;
+  border: 0px;
+}
+
+.recipes__iframe {
+  width: 560px;
+  height: 315px;
+  border: 0px;
 }
 
 .recipes__video-caption {
