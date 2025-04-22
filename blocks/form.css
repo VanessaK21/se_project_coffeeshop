@@ -31,6 +31,13 @@
   padding: 20px 0;
   margin-bottom: 32px;
   color: #fff;
+  cursor: pointer;
+  background-color: #1878dc;
+  transition: background-color 0.5s;
+}
+
+.form__button:hover {
+  background-color: #3f96f3;
 }
 
 .form__checkbox {
