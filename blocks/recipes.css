@@ -2,6 +2,10 @@
   color: #fff;
   background-color: #0a2750;
   padding: 100px 80px 215px;
+  background-image: url("../images/background_recipes.svg");
+  background-position: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .recipes__title {
@@ -27,8 +31,8 @@
 }
 
 .recipes__iframe {
-  width: 560px;
-  height: 315px;
+  width: 480px;
+  height: 273px;
   border: 0px;
 }
 
